@@ -7,8 +7,9 @@ First implementation of Improved Wasserstein GAN (WGAN-gp), on the MNIST dataset
 See the article : https://arxiv.org/abs/1704.00028
 
 2) WGAN for electromagnetic showers in the ATLAS calorimeter
+A first script - PreProcessing.py - applies transformations to the former dataset (noise cuts, remove events>300 GeV)
 
-3 Python files work together :
+Three Python files that work together :
 - config.py (contains training parameters, path to files, ...)
 - plot_functions.py (where all plot functions are defined)
 - training.py (main file to train the WGAN)
