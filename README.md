@@ -1,5 +1,5 @@
 # CERN_project
-GANs for simulation of electromagnetic showers in the ATLAS calorimeter 
+GANs for simulation of electromagnetic showers in the ATLAS calorimeter. Details of my project are in the file Report.pdf
 
 1) MNIST.py
 
