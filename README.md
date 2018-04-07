@@ -18,6 +18,6 @@ To launch a training, you should write in the terminal : python training.py Name
 
 Plots are generated automatically each 250 epochs, a folder is created each time.
 
-3) A Jupyter notebook
+3) A Jupyter notebook called Physics_variates.ipynb
 
 Interactive plots 
